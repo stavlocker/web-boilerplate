@@ -1,7 +1,7 @@
 {
-  "name": "WebLooper",
+  "name": "%YOURPACKAGENAME%",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Stav Locker <stavlocker@gmail.com>",
+  "author": "%AUTHORNAME% <%AUTHOREMAIL%>",
   "license": "MIT"
 }
