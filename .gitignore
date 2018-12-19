@@ -1,0 +1,8 @@
+node_modules
+*.pyc
+*.sqlite3
+bundles/
+/static/
+backend/media/
+migrations/
+webpack-stats.json
